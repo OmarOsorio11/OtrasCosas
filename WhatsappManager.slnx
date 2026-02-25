@@ -6,6 +6,7 @@
   <Project Path="EditorDePDF/EditorDePDF.csproj" Id="8ad1c4d1-22c7-45d6-9a22-b59e280d7274">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
+  <Project Path="RecorteDeImagenes/RecorteDeImagenes.csproj" Id="5c190377-f957-47fc-acfd-e1f9e9dd22a8" />
   <Project Path="WhatsappManager/WhatsappManager.csproj">
     <Platform Solution="*|x64" Project="x64" />
   </Project>
